@@ -1,0 +1,5 @@
+[user]
+	name = Gautham Sajith
+	email = gsajith@umich.edu
+[credential]
+	helper = osxkeychain
